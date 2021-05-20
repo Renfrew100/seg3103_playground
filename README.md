@@ -6,6 +6,6 @@
 | Date | Summer 2021 |
 | Professor | Andrew Forward, aforward@uottawa.ca |
 | TA | James Url, jamesurl@uottawa.caa |
-| Team | Andrew Forward 1484511<br>Ayana Forward 9021000 |
+| Team | Ali Aftab, Muhammad 300067438 |
 
 * [Lab01](lab01)
