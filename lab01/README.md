@@ -72,14 +72,14 @@ Here is the output of the tests
 ```bash
 Thanks for using JUnit! Support its development at https://junit.org/sponsoring
 
-╷
-├─ JUnit Jupiter ✔
-│  └─ NewmathTest ✔
-│     ├─ div_ok() ✔
-│     └─ div_by_zero() ✔
-└─ JUnit Vintage ✔
+←[36m.←[0m
+←[36m+--←[0m ←[36mJUnit Jupiter←[0m ←[32m[OK]←[0m
+←[36m| '--←[0m ←[36mNewmathTest←[0m ←[32m[OK]←[0m
+←[36m|   +--←[0m ←[34mdiv_ok()←[0m ←[32m[OK]←[0m
+←[36m|   '--←[0m ←[34mdiv_by_zero()←[0m ←[32m[OK]←[0m
+←[36m'--←[0m ←[36mJUnit Vintage←[0m ←[32m[OK]←[0m
 
-Test run finished after 32 ms
+Test run finished after 232 ms
 [         3 containers found      ]
 [         0 containers skipped    ]
 [         3 containers started    ]
