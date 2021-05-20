@@ -6,7 +6,7 @@
 | Date | Summer 2021 |
 | Professor | Andrew Forward, aforward@uottawa.ca |
 | TA | James Url, jamesurl@uottawa.ca |
-| Team | Andrew Forward 1484511<br>Ayana Forward 9021000 |
+| Team | Ali Aftab, Muhammad 300067438 |
 
 ## Deliverables
 
@@ -58,7 +58,7 @@ I am working with JUnit 5 (via Console standalone 1.7.1)
 To run JUnit, I need to compile the application (see above), and then compile the test code
 
 ```bash
-javac -encoding UTF-8 --source-path test -d dist -cp dist:lib/junit-platform-console-standalone-1.7.1.jar test/*.java
+javac -encoding UTF-8 --source-path test -d dist -cp lib/junit-platform-console-standalone-1.7.1.jar test/*.java src/*.java
 ```
 
 Then I run the tests using
