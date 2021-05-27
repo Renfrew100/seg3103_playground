@@ -9,3 +9,4 @@
 | Team | Ali Aftab, Muhammad 300067438 |
 
 * [Lab01](lab01)
+* [Lab02](lab02)
