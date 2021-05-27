@@ -10,6 +10,7 @@
 
 
 ## Terminal Output to Run Jar File
+#This is a description on how to start up the jar file and how to run the localhost...
 ![description](assets/terminal-output.png)
 
 ## Localhost:8080
@@ -22,5 +23,10 @@
 ## Table Output Part 2
 
 ![description4](assets/table2.png)
+
+## Test 
+
+![description5](assets/test1.png)
+![description6](assets/test2.png)
 
 
