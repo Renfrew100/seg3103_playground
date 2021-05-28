@@ -17,13 +17,16 @@ public class DateNextDateOkTest {
 
 	private Date anyDate;
 	private Date expectedDate;
-
+	private Date date;
+	
 	public DateNextDateOkTest(int year, int month, int day, int expYear, int expMonth, int expDay)
 	{
 		this.anyDate = new Date(year,month,day);
 		this.expectedDate = new Date(expYear,expMonth,expDay);
+		
 	}
 
+	//class with parameters that take in a collection of objects as array
 	@Parameters
 	public static List<Integer[]> data()
 	{
