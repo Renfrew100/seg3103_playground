@@ -15,5 +15,5 @@ Using Windows 10
 ## Code Coverage
 ![description](assets/jacoco-coverage-report.png)
 
-![description2](assets/default-code coverage)
+![description2](assets/default-codecoverage.png)
 
