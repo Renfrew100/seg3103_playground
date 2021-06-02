@@ -13,7 +13,7 @@
 Using Windows 10
 
 ## Code Coverage
-![description](assets/default-codecoverage.png)
+![description](assets/jacoco-coverage-report.png)
 
-![description2](assets/jacoco-covrage-report.png)
+![description2](assets/default-code coverage)
 
