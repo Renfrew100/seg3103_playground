@@ -27,8 +27,6 @@ public class ComputationTest {
     assertEquals(0.5d, divideResult, 0.0d);
   }
 
-  public void
-
   @Test
   public void catchesException() {
     computation.catchesException();
@@ -38,7 +36,7 @@ public class ComputationTest {
   public void multiply() {
     //check if 5 and 2 are = 10
     assertEquals(10, computation.multiply(5,2));
-    //check if 100 and 0 are = 0
+    //check if 100 and 0 are = 0 
     assertEquals(0, computation.multiply(100, 0));
   }
 
