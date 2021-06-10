@@ -31,43 +31,43 @@ java -jar lib/jacococli.jar report jacoco.exec --classfiles dist --sourcefiles s
 
 ## Coverage test for substraction
 
-![description5](substract.png)
+![description5](assets/substract.png)
 
 ## Coverage test for addition
 
-![description6](add.png)
+![description6](assets/add.png)
 
 ## Coverage test for division 
 
-![description7](divide.png)
+![description7](assets/divide.png)
 
 ## Coverage test for toString
 
-![description8](toString.png)
+![description8](assets/toString.png)
 
 ## Coverage test for Date greater than 30
-![description9](date-31.png)
+![description9](assets/date-31.png)
 
 ## Coverage test for Thirty Day Month
-![description10](is-thirty-day-month.png)
+![description10](assets/is-thirty-day-month.png)
 
 ## Coverage test for Thirty Day Month
-![description11](is-end-of-month.png)
+![description11](assets/is-end-of-month.png)
 
 ## Coverage test for Leap Year
-![description12](is-leap-year.png)
+![description12](assets/is-leap-year.png)
 
 ## Coverage test for Equals
-![description13](equals.png)
+![description13](assets/equals.png)
 
 ## Coverage test for date
-![description14](date.png)
+![description14](assets/date.png)
 
 ## Coverage test for date
-![description15](data-ob.png)
+![description15](assets/data-ob.png)
 
 ## Coverage test for main
-![description16](main.png)
+![description16](assets/main.png)
 
 ## JUnit Test
 ![description17](assets/JUnit-Test1.png)
@@ -83,9 +83,9 @@ java -jar lib/jacococli.jar report jacoco.exec --classfiles dist --sourcefiles s
 
 After doing some refractoring of the code, we have: 
 
-![description23](setMonth.png)
+![description23](assets/setMonth.png)
 
-![description24](chooseMonth.png)
+![description24](assets/chooseMonth.png)
 
 
 
