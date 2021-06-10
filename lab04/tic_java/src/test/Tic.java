@@ -14,11 +14,11 @@ public class Tic {
 		return Tic.def_board;
 	}
 	
-	public static String[][] emptyBoard(int row, int col) {
+	public static String[][] emptyBoard(int indexr, int indexcl) {
 
-		String[][] board = new String[row][col];
-		for (int i = 0; i < row; i++) {
-			for (int j = 0; j < col; j++) {
+		String[][] board = new String[indexr][indexcl];
+		for (int i = 0; i < indexr; i++) {
+			for (int j = 0; j < indexcl; j++) {
 				board[i][j] = "_";
 			}
 		}
