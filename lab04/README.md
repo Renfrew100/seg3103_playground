@@ -19,7 +19,9 @@ javac -encoding UTF-8 --source-path test -d dist -cp lib/junit-platform-console-
 ## Run:
 java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --scan-class-path
 
-# Commit # 1 - Added failing test 
+## Commit # 1 - Added failing test 
+![description](assets/default_board_with_2)
 
-# Commit # 2 - Added passing test 
+## Commit # 2 - Added passing test 
+![description1](assets/default_board_pass)
 
