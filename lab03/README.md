@@ -23,7 +23,7 @@ java -jar lib/jacococli.jar report jacoco.exec --classfiles dist --sourcefiles s
 ## Code Coverage
 ![description](assets/jacoco-coverage-report.png)
 
-![description2](assets/Screenshot 2021-06-02 162651.png)
+![description2](assets/defaut.png)
 
 ![description3](assets/report2.png)
 
