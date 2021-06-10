@@ -1,31 +1,39 @@
 package test;
 
-import tic_java.Tic;
+import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
 
 public class TicTest {
 	
 	Tic obj = new Tic();
+	tic_java.tic_java ob = new tic_java.tic_java();
 	
+	@Test
 	void default_Board() {
 		String[] [] map = {{"_","_","_"},{"_","_","_"},{"_","_","_"}};
 		assertEquals(map,obj.default_Board());
 	}
 	
-	public void test_emptyBoard{
+	@Test
+	public void test_emptyBoard(){
 		String[][] map = {{"_","_"},{"_","_"}};
-		assertEquals(result2, obj.emptyBoard(2,2));		
+		assertEquals(map, obj.emptyBoard(2,2));		
 	}
 	
-	void sizeBoard{
+	@Test
+	void sizeBoard(){
 		String[][] result= obj.emptyBoard(4, 4);
-	    assertEquals(16,obj.boardSize(result)); //get result from above
+	    assertEquals(16,obj.sizeBoard(result)); //get result from above
 	}
 	
+	@Test
 	void test_winner() {
 		assertEquals(true, obj.winner());
 	}
 	
-	void test_boardPositions{
+	@Test
+	void test_boardPositions(){
 		assertEquals("X", obj.boardPositions(true, 0, 1));
 		assertEquals("O", obj.boardPositions(false, 0, 2));
 		assertEquals("X", obj.boardPositions(true, 1, 1));

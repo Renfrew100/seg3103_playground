@@ -1,4 +1,4 @@
-package tic_java;
+package test;
 
 public class Tic {
 
@@ -6,9 +6,9 @@ public class Tic {
 	static String[][] map = Tic.default_Board();
 	
 	public static String[][] default_Board(){
-		for(int i = 0; i < 5; i++) {
-			for (int j = 0; j < 5; j++) {
-				Tic.default_Board();
+		for(int i = 0; i < 3; i++) {
+			for (int j = 0; j < 3; j++) {
+				Tic.def_board[i][j]="_";
 			}
 		}
 		return Tic.def_board;
@@ -25,22 +25,23 @@ public class Tic {
 		return board;
 	}
 	
-	private static int sizeBoard(String b[][]) {
+	static int sizeBoard(String b[][]) {
 		return (b.length)*(b[0].length);
 	}
 	
 	public static String boardPositions (boolean player, int row, int col) {
 		String sign = "_";
-		if(player) 
+		if(player) {
 			sign ="X";
+		}
 		else 
 			sign ="O";
-		
-		if(Tic.map[row][col]=="_")
+		if(Tic.map[row][col]=="_") {
 			return Tic.map[row][col] = sign;
-		else if (Tic.map[row][col]=="X" || Tic.map[row][col]=="O") 
+		}
+		else if (Tic.map[row][col]=="X" || Tic.map[row][col]=="O") {
 			return "N";					
-		
+		}
 		return Tic.map [row][col];
 	}
 	
