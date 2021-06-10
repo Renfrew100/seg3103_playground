@@ -11,7 +11,7 @@ public class TicTest {
 	
 	@Test
 	void default_Board() {
-		String[] [] map = {{"_","_","_"},{"_","_","_"},{"_","_","_"}};
+		String[] [] map = {{"_","2","_"},{"_","_","_"},{"_","_","_"}};
 		assertEquals(map,obj.default_Board());
 	}
 	
