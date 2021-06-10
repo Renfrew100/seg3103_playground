@@ -58,7 +58,7 @@ java -jar lib/jacococli.jar report jacoco.exec --classfiles dist --sourcefiles s
 ![description12](assets/is-leap-year.png)
 
 ## Coverage test for Equals
-![description13](assets/equals.png)
+![description13](assets/eqauls.png)
 
 ## Coverage test for date
 ![description14](assets/date.png)
