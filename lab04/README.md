@@ -61,6 +61,8 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 ![description7](assets/test-winner_pass.png)
 
 ## Commit
+![image](https://user-images.githubusercontent.com/37605427/121627048-a634d800-ca44-11eb-8161-751cf09f484a.png)
+
 
 # Commit # 5
 ## Added failing test - test_boardPositions
