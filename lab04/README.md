@@ -33,12 +33,13 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 
 # Commit # 2
 ## Added failing test - emptyBoard
-![description2](assets/
+![description2](assets/emptyboard_fail.png)
 
 ## Added passing test - emptyBoard
-![description3](assets/
+![description3](assets/emptyboard_pass.png)
 
 ## Commit
+![image](https://user-images.githubusercontent.com/37605427/121624445-8e0e8a00-ca3f-11eb-81ab-8c549aebf2c2.png)
 
 # Commit # 3
 ## Added failing test - sizeBoard
