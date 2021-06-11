@@ -55,8 +55,10 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 
 # Commit # 4 
 ## Added failing test - test_winner
+![description6](assets/test-winner_fail.png)
 
 ## Added passing test - test_winner
+![description7](assets/test-winner_pass.png)
 
 ## Commit
 
