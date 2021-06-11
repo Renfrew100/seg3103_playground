@@ -29,7 +29,7 @@ public class TicTest {
 	
 	@Test
 	void test_winner() {
-		assertEquals(false, obj.winner());
+		assertEquals(true, obj.winner());
 	}
 	
 	@Test
