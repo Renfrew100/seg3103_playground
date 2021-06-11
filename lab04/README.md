@@ -44,10 +44,14 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 
 # Commit # 3
 ## Added failing test - sizeBoard
+![description4](assets/sizeboard_fail.png)
 
 ## Added passing test - sizeBoard
+![description5](assets/sizeboard_pass.png)
 
 ## Commit
+![image](https://user-images.githubusercontent.com/37605427/121625327-438e0d00-ca41-11eb-9102-fcbfeb867e42.png)
+
 
 # Commit # 4 
 ## Added failing test - test_winner
