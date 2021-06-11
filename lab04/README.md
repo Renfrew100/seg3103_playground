@@ -72,5 +72,6 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 ![description9](assets/test_boardpositions_pass.png)
 
 ## Commit
+![image](https://user-images.githubusercontent.com/37605427/121628120-a46c1400-ca46-11eb-8067-4c4d271d8498.png)
 
 # Refactor
