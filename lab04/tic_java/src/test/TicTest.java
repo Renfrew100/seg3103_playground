@@ -34,7 +34,7 @@ public class TicTest {
 	
 	@Test
 	void test_boardPositions(){
-		assertEquals("X", obj.boardPositions(true, 0, 1));
+		assertEquals("X", obj.boardPositions(false, 0, 1));
 		assertEquals("O", obj.boardPositions(false, 0, 2));
 		assertEquals("X", obj.boardPositions(true, 1, 1));
 		assertEquals("O", obj.boardPositions(false, 2, 0));
