@@ -51,7 +51,7 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 
 ## Commit
 ![image](https://user-images.githubusercontent.com/37605427/121625327-438e0d00-ca41-11eb-9102-fcbfeb867e42.png)
-
+![image](https://user-images.githubusercontent.com/37605427/121625594-c0b98200-ca41-11eb-8943-b061ce2aeac8.png)
 
 # Commit # 4 
 ## Added failing test - test_winner
