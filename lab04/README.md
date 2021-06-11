@@ -26,6 +26,8 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 ## Added passing test - default_Board
 ![description1](assets/default_board_pass.png)
 
+## Commit
+
 # Commit # 2
 ## Added failing test - emptyBoard
 ![description2](assets/
