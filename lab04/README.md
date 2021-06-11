@@ -40,6 +40,7 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 
 ## Commit
 ![image](https://user-images.githubusercontent.com/37605427/121624445-8e0e8a00-ca3f-11eb-81ab-8c549aebf2c2.png)
+![image](https://user-images.githubusercontent.com/37605427/121624803-33296280-ca40-11eb-9819-23fcf6f8489e.png)
 
 # Commit # 3
 ## Added failing test - sizeBoard
