@@ -28,6 +28,9 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 
 ## Commit
 
+![image](https://user-images.githubusercontent.com/37605427/121623881-83072a00-ca3e-11eb-8e1f-5f8b0eb61243.png)
+
+
 # Commit # 2
 ## Added failing test - emptyBoard
 ![description2](assets/
