@@ -76,3 +76,6 @@ java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --sc
 ![image](https://user-images.githubusercontent.com/37605427/121628160-b8177a80-ca46-11eb-9883-94c6b6af5634.png)
 
 # Refactor
+Refactored code appropiately to rows and columns:![image](https://user-images.githubusercontent.com/37605427/121628435-37a54980-ca47-11eb-9805-662071ffcbf7.png)
+![image](https://user-images.githubusercontent.com/37605427/121628391-1e9c9880-ca47-11eb-9589-21633c68b5b1.png)
+
