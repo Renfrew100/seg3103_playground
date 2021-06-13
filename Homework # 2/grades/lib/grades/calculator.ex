@@ -51,10 +51,11 @@ defmodule Grades.Calculator do
     end
   end
 
-***********************
-helping method
-***********************
-
+"""
+Helping methods: for calculating average, for failing to 
+participate, calculating grade, and refactoring the numeric and
+letter grades as well as lab mark/count
+"""
   def avg(data) do
     if Enum.count(data) == 0 do 
       0
@@ -71,6 +72,9 @@ helping method
     0.2 * avg_labs + 0.3 * avg_homework + 0.2 * midterm + 0.3 * final
   end
 
+"""
+refactoring method for lettergrade and numeric grade
+"""
   def calc_grade(isLetterGrade, isNumericGrade) do
     if isLetterGrade == true do 
       cond do
@@ -103,3 +107,4 @@ helping method
     end 
   end
 end
+
