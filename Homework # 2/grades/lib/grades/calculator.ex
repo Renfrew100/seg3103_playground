@@ -18,7 +18,7 @@ defmodule Grades.Calculator do
 
     num_labs = lab_participation(labs)
 
-    if failed_to_participate(avg_homework, avg_exams, avg_labs) do
+    if failed_to_participate(avg_homework, avg_exams, num_labs) do
       "EIN"
     else
       mark = calculate_grade(avg_labs, avg_homework, midterm, final)
@@ -36,7 +36,7 @@ defmodule Grades.Calculator do
 
     num_labs = lab_participation(labs)
 
-    if failed_to_participate(avg_homework, avg_exams, avg_labs) do
+    if failed_to_participate(avg_homework, avg_exams, num_labs) do
       0
     else
       mark = calculate_grade(avg_labs, avg_homework, midterm, final)
@@ -58,7 +58,7 @@ letter grades as well as lab mark/count for participation
     end
   end
 
-  def failed_to_participate(avg_homework, avg_exams, avg_labs) do
+  def failed_to_participate(avg_homework, avg_exams, num_labs) do
     avg_homework < 0.4 || avg_exams < 0.4 || num_labs < 3 
   end
   
