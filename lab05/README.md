@@ -11,6 +11,7 @@
 
 # Startup
 
+## Grades 
 The lab can be started up by going into the grades directory and running mix phx.server
 
 ![image](https://user-images.githubusercontent.com/37605427/124223453-c00c8c80-dad1-11eb-84e6-e5da0841bc86.png)
@@ -28,6 +29,11 @@ The lab are seen with the following errors:
 ![image](https://user-images.githubusercontent.com/37605427/124223650-1aa5e880-dad2-11eb-816f-8fe17ba7504e.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/124223606-082baf00-dad2-11eb-90b6-4cd2ce7d7da4.png)
+
+## Twitter
+
+![image](https://user-images.githubusercontent.com/37605427/124224419-9d7b7300-dad3-11eb-83b1-8bbc29077745.png)
+
 
 
 
