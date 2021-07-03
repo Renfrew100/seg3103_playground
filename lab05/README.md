@@ -31,8 +31,6 @@ The lab are seen with the following errors:
 
 ![image](https://user-images.githubusercontent.com/37605427/124223567-f3e7b200-dad1-11eb-9f92-8796bb77f0a7.png)
 
-![image](https://user-images.githubusercontent.com/37605427/124341633-b2b3d880-db8b-11eb-9569-36e5d8c3c441.png)
-
 ![image](https://user-images.githubusercontent.com/37605427/124223606-082baf00-dad2-11eb-90b6-4cd2ce7d7da4.png)
 
 ## Stubbed Code
@@ -55,6 +53,8 @@ The lab are seen with the following errors:
 Test Cases are seen below:
 
 ![image](https://user-images.githubusercontent.com/37605427/124228701-8db35d00-dada-11eb-987a-8bf8819fbb19.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341633-b2b3d880-db8b-11eb-9569-36e5d8c3c441.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/124341212-dfb2bc00-db88-11eb-8312-6ad9f2fc9dd9.png)
 
