@@ -56,4 +56,13 @@ Test Cases are seen below:
 
 ![image](https://user-images.githubusercontent.com/37605427/124228701-8db35d00-dada-11eb-987a-8bf8819fbb19.png)
 
+![image](https://user-images.githubusercontent.com/37605427/124341212-dfb2bc00-db88-11eb-8312-6ad9f2fc9dd9.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341218-e6d9ca00-db88-11eb-8789-eff6e0308d4a.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341223-f2c58c00-db88-11eb-87c9-a650f0687bd3.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341230-0113a800-db89-11eb-8323-387894787288.png)
+
+
 
