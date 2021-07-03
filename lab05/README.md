@@ -19,7 +19,7 @@ The lab can be started up by going into the grades directory and running mix phx
 
 The dependencies can be installed by doing mix deps.get
 
-![image](https://user-images.githubusercontent.com/37605427/124223869-930ca980-dad2-11eb-851b-a2fe884be353.png
+![image](https://user-images.githubusercontent.com/37605427/124223869-930ca980-dad2-11eb-851b-a2fe884be353.png)
 
 You can go in the assets directory and do npm install
 
