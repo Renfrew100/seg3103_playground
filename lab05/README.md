@@ -52,10 +52,6 @@ The lab are seen with the following errors:
 
 Test Cases are seen below:
 
-![image](https://user-images.githubusercontent.com/37605427/124228701-8db35d00-dada-11eb-987a-8bf8819fbb19.png)
-
-![image](https://user-images.githubusercontent.com/37605427/124341633-b2b3d880-db8b-11eb-9569-36e5d8c3c441.png)
-
 ![image](https://user-images.githubusercontent.com/37605427/124341212-dfb2bc00-db88-11eb-8312-6ad9f2fc9dd9.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/124341218-e6d9ca00-db88-11eb-8789-eff6e0308d4a.png)
@@ -72,6 +68,8 @@ Test Cases are seen below:
 
 ![image](https://user-images.githubusercontent.com/37605427/124341620-a9c30700-db8b-11eb-999a-ab357890f88b.png)
 
+![image](https://user-images.githubusercontent.com/37605427/124228701-8db35d00-dada-11eb-987a-8bf8819fbb19.png)
 
+![image](https://user-images.githubusercontent.com/37605427/124341633-b2b3d880-db8b-11eb-9569-36e5d8c3c441.png)
 
 
