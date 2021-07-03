@@ -31,17 +31,7 @@ The lab are seen with the following errors:
 
 ![image](https://user-images.githubusercontent.com/37605427/124223567-f3e7b200-dad1-11eb-9f92-8796bb77f0a7.png)
 
-![image](https://user-images.githubusercontent.com/37605427/124223650-1aa5e880-dad2-11eb-816f-8fe17ba7504e.png)
-
-![image](https://user-images.githubusercontent.com/37605427/124341610-91eb8300-db8b-11eb-95b5-3edce2cb1d72.png)
-
-![image](https://user-images.githubusercontent.com/37605427/124341614-a0399f00-db8b-11eb-835c-3aa41cf250b5.png)
-
-![image](https://user-images.githubusercontent.com/37605427/124341620-a9c30700-db8b-11eb-999a-ab357890f88b.png)
-
 ![image](https://user-images.githubusercontent.com/37605427/124341633-b2b3d880-db8b-11eb-9569-36e5d8c3c441.png)
-
-
 
 ![image](https://user-images.githubusercontent.com/37605427/124223606-082baf00-dad2-11eb-90b6-4cd2ce7d7da4.png)
 
@@ -73,6 +63,15 @@ Test Cases are seen below:
 ![image](https://user-images.githubusercontent.com/37605427/124341223-f2c58c00-db88-11eb-87c9-a650f0687bd3.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/124341230-0113a800-db89-11eb-8323-387894787288.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124223650-1aa5e880-dad2-11eb-816f-8fe17ba7504e.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341610-91eb8300-db8b-11eb-95b5-3edce2cb1d72.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341614-a0399f00-db8b-11eb-835c-3aa41cf250b5.png)
+
+![image](https://user-images.githubusercontent.com/37605427/124341620-a9c30700-db8b-11eb-999a-ab357890f88b.png)
+
 
 
 
