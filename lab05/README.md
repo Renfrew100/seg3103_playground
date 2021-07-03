@@ -35,6 +35,8 @@ The lab are seen with the following errors:
 
 ![image](https://user-images.githubusercontent.com/37605427/124223606-082baf00-dad2-11eb-90b6-4cd2ce7d7da4.png)
 
+# Stubbed Code
+
 ![image](https://user-images.githubusercontent.com/37605427/124341139-58fddf00-db88-11eb-86dd-6f2b0ced9d11.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/124341147-661ace00-db88-11eb-84a6-4be9172d4b0e.png)
