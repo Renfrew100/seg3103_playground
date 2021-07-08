@@ -12,6 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/37605427/125003710-cb0d7280-e025-11eb-9eab-e6dd5c59f3e3.png)
 
+# Then run mvn package -DskipTests
 ![image](https://user-images.githubusercontent.com/37605427/125003516-5e927380-e025-11eb-9290-7afed1707717.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/125003525-64885480-e025-11eb-9f40-0e0d7def2c54.png)
