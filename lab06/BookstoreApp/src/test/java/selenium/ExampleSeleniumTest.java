@@ -52,15 +52,15 @@ class ExampleSeleniumTest {
     server.destroy();
   }
 
-  @Test
+  /* @Test
   void test1() {
     WebElement element = driver.findElement(By.id("title"));
     String expected = "YAMAZONE BookStore";
     String actual = element.getText();
     assertEquals(expected, actual);
-  }
+  }  */
 
-  @Test
+/*  @Test
   public void test2() {
     WebElement welcome = driver.findElement(By.cssSelector("p"));
     String expected = "Welcome";
@@ -74,6 +74,25 @@ class ExampleSeleniumTest {
     expected = "Bienvenu";
     actual = welcome.getText();
     assertEquals(expected, getWords(actual)[0]);
+  } */
+  
+
+    @Test
+  public void test(){
+    driver.get("http://localhost:8080/admin");
+    WebElement username = driver.findElement(By.id("loginId"));
+    username.sendKeys("admin");
+
+    WebElement password = driver.findElement(By.id("loginPasswd"));
+    password.sendKeys("password");
+
+    WebElement loginButton = driver.findElement(By.id("loginBtn"));
+    loginButton.click();
+
+    String expectedURL = "http://localhost:8080/admin";
+    String currentURL = driver.getCurrentUrl();
+
+    assertEquals(expectedURL, currentURL);
   }
 
   private String[] getWords(String s) {
