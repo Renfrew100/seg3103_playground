@@ -46,3 +46,13 @@
 
 # Checkout
 ![image](https://user-images.githubusercontent.com/37605427/125003617-95688980-e025-11eb-8df2-f5e6b64ff40e.png)
+
+# Tests
+
+![image](https://user-images.githubusercontent.com/37605427/125551882-8cc37f54-0ca3-4683-a746-e674d3ef35cd.png)
+
+![image](https://user-images.githubusercontent.com/37605427/125551931-ecfe1abc-b4d4-447f-a789-e2316e232599.png)
+
+![image](https://user-images.githubusercontent.com/37605427/125552025-b4d1d46d-9c3a-450f-b2a7-a35135b0e23b.png)
+
+
