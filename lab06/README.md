@@ -21,14 +21,14 @@
 
 ![image](https://user-images.githubusercontent.com/37605427/125541958-136c73ee-b3b4-40f6-bf7d-5cf41fe2513c.png)
 
-# Then we can mvn compile
+# Then we can "mvn compile"
 
 ![image](https://user-images.githubusercontent.com/37605427/125003710-cb0d7280-e025-11eb-9eab-e6dd5c59f3e3.png)
 
-# Then run mvn package -DskipTests
+# Then run "mvn package -DskipTests"
 ![image](https://user-images.githubusercontent.com/37605427/125003516-5e927380-e025-11eb-9290-7afed1707717.png)
 
-# We can then display the output of running java -jar bookstore5.jar
+# We can then display the output of running "java -jar bookstore5.jar"
 
 ![image](https://user-images.githubusercontent.com/37605427/125543252-003b82f2-7bc0-43f5-9fa4-eeeee607dbcb.png)
 
