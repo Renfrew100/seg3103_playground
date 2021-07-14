@@ -15,7 +15,11 @@
 # Selenium 
 -Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms 
 
-# First we can mvn compile
+# First we can check the mvn version
+
+![image](https://user-images.githubusercontent.com/37605427/125541243-76a2867c-de93-48ff-a81f-53faa871e2ea.png)
+
+# We can mvn compile
 
 ![image](https://user-images.githubusercontent.com/37605427/125003710-cb0d7280-e025-11eb-9eab-e6dd5c59f3e3.png)
 
