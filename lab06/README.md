@@ -8,6 +8,13 @@
 | TA | zkaka044@uottawa.ca |
 | Team | Ali Aftab, Muhammad 300067438 |
 
+# Acceptance Testing - User Acceptance Testing
+-Type of testing determines if a feature or system meets a customer expectations and requirements 
+-Automation of this testing can be done directly with Selenium, simulating user expected behavior 
+
+# Selenium 
+-Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms 
+
 # First we can mvn compile
 
 ![image](https://user-images.githubusercontent.com/37605427/125003710-cb0d7280-e025-11eb-9eab-e6dd5c59f3e3.png)
