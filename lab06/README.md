@@ -17,7 +17,7 @@
 
 # First we can check the mvn version
 
-![image](https://user-images.githubusercontent.com/37605427/125541243-76a2867c-de93-48ff-a81f-53faa871e2ea.png)
+![image](https://user-images.githubusercontent.com/37605427/125541958-136c73ee-b3b4-40f6-bf7d-5cf41fe2513c.png)
 
 # We can mvn compile
 
