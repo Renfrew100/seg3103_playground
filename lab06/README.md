@@ -28,9 +28,11 @@
 # Then run mvn package -DskipTests
 ![image](https://user-images.githubusercontent.com/37605427/125003516-5e927380-e025-11eb-9290-7afed1707717.png)
 
-# We can then display the output of our UIs
+# We can then display the output of running java -jar bookstore5.jar
 
 ![image](https://user-images.githubusercontent.com/37605427/125543252-003b82f2-7bc0-43f5-9fa4-eeeee607dbcb.png)
+
+# The UIs are displayed below
 
 # Login
 ![image](https://user-images.githubusercontent.com/37605427/125004006-8504de80-e026-11eb-8811-62d4fa00dd37.png)
