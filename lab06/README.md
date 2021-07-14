@@ -15,6 +15,7 @@
 
 # Selenium 
 -Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms 
+
 -Reproducible, Traceable, and Evidenced
 
 # First we can check the mvn version, doing "mvn --version"
