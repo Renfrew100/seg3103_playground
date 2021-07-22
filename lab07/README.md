@@ -58,6 +58,6 @@ The above images converts a string to a double but it is more effiicent to just 
 ![image](https://user-images.githubusercontent.com/37605427/126689877-c319f240-f33a-4209-b2b3-4047d638841d.png)
 
 
-
+Just make the compile-time to static value after the `final` keyboard
 
 
