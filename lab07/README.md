@@ -47,6 +47,8 @@ In CalCFrame class, creating a new inner class WindowAdapter.WindowClosing(Windo
 
 ![image](https://user-images.githubusercontent.com/37605427/126688543-d68fea5a-4742-48af-bb34-e9b5f3baacdd.png)
 
+![image](https://user-images.githubusercontent.com/37605427/126689118-1326c34f-06d5-4773-ab91-5248075ef6a2.png)
+
 The above image converts a string to a double but it is more effiicent to just call the static parse method 
 
 
