@@ -19,4 +19,5 @@
 
 ![image](https://user-images.githubusercontent.com/37605427/126667475-0f3436ae-12ef-4fc0-8dee-443e4497dff6.png)
 
-The above bug was fixed by changing the equality operator to and object that compares the string in the parameter  
+A programmer should not be using `==` or `!=` to compare strings in Java. They should be using the `equals` method. This bug can be fixed by 
+replacing the `==` with the `equals` method. 
