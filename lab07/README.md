@@ -15,10 +15,9 @@
 
 ![image](https://user-images.githubusercontent.com/37605427/126668859-8f60915e-c54b-4ae6-bc2c-22eaa9e24263.png)
 
-## Bug 1: Strings Comparison
-
-
 ![image](https://user-images.githubusercontent.com/37605427/126667918-a53f0807-0767-4833-a2a3-603886c7dc20.png)
+
+## Bug 1: Strings Comparison
 
 ![image](https://user-images.githubusercontent.com/37605427/126667475-0f3436ae-12ef-4fc0-8dee-443e4497dff6.png)
 
