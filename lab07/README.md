@@ -63,7 +63,7 @@ Just make the compile-time to static value after the `final` keyboard
 
 ![image](https://user-images.githubusercontent.com/37605427/126690888-4aa4184f-95ce-465e-a5a9-313e99122d99.png)
 
-![image](https://user-images.githubusercontent.com/37605427/126692601-09d8fd25-1949-4717-a185-4fb39384d1fd.png)
+![image](https://user-images.githubusercontent.com/37605427/126696283-695c9446-9dad-41d0-a4c5-c8eb96ece453.png)
 
 The same code was used for duplicate lines. This was fixed by changing up the code to one line. 
 
