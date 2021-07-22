@@ -57,7 +57,13 @@ The above images converts a string to a double but it is more effiicent to just 
 
 ![image](https://user-images.githubusercontent.com/37605427/126689877-c319f240-f33a-4209-b2b3-4047d638841d.png)
 
-
 Just make the compile-time to static value after the `final` keyboard
 
+## Bug 12: new CalCFrame(String) uses the same code for two branches
+
+![image](https://user-images.githubusercontent.com/37605427/126690888-4aa4184f-95ce-465e-a5a9-313e99122d99.png)
+
+![image](https://user-images.githubusercontent.com/37605427/126690935-b1c1463a-be8f-498d-96a3-db5a7c6db608.png)
+
+The same code was implemented using two branches of a conditional branch. This was fixed by removing the duplicate line.
 
