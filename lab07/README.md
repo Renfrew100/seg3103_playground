@@ -37,4 +37,6 @@ This error was caused because the `setVisible` method could cause deadlocks or o
 
 This class is an inner class but references makes the instances of the class larger and may keep the references to the creator object alive longer than necessary
 
+In CalCFrame class, creating a new inner class WindowAdapter.WindowClosing(WindowEvent e), passing in a WindowEvent as as argument, instead of using a new WindowAdapter.
+
 
