@@ -33,6 +33,8 @@ This error was caused because the `setVisible` method could cause deadlocks or o
 
 ## Bug 3: Could be refactored into a named static inner class
 
-![image](https://user-images.githubusercontent.com/37605427/126672977-d8308cb3-b916-4d6c-b96a-133e53f389d5.png)
+![image](https://user-images.githubusercontent.com/37605427/126673237-8d7191ae-3429-4fc2-ab7e-7a67709051db.png)
+
+This class is an inner class but references makes the instances of the class larger and may keep the references to the creator object alive longer than necessary
 
 
