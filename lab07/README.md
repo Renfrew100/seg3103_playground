@@ -49,6 +49,15 @@ In CalCFrame class, creating a new inner class WindowAdapter.WindowClosing(Windo
 
 ![image](https://user-images.githubusercontent.com/37605427/126689118-1326c34f-06d5-4773-ab91-5248075ef6a2.png)
 
-The above image converts a string to a double but it is more effiicent to just call the static parse method 
+The above images converts a string to a double but it is more effiicent to just call the static parse method 
+
+## Bug 6 to 11: Unread field: CalCFrame.ADD; should this field be static?
+
+![image](https://user-images.githubusercontent.com/37605427/126689793-49c31f23-ae17-4fbd-b947-0712d4c3b832.png)
+
+![image](https://user-images.githubusercontent.com/37605427/126689877-c319f240-f33a-4209-b2b3-4047d638841d.png)
+
+
+
 
 
