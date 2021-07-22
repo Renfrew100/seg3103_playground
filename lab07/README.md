@@ -39,12 +39,12 @@ This class is an inner class but references makes the instances of the class lar
 
 In CalCFrame class, creating a new inner class WindowAdapter.WindowClosing(WindowEvent e), passing in a WindowEvent as as argument, instead of using a new WindowAdapter.
 
-## Bug 4: Boxing/unboxing to parse a primitive
+## Bug 4/5: Boxing/unboxing to parse a primitive
 
 ![image](https://user-images.githubusercontent.com/37605427/126676285-ea53ea00-1837-44e4-bf19-d51b6d548c98.png)
 
-The above image converts a string to a double but it is more effiicent to just call the static parse method 
-
 ![image](https://user-images.githubusercontent.com/37605427/126676613-62f5118d-a26e-4525-879e-6ef6e7286524.png)
+
+The above image converts a string to a double but it is more effiicent to just call the static parse method 
 
 
