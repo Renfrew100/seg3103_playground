@@ -30,3 +30,9 @@ replacing the `==` with the `equals` method.
 ![image](https://user-images.githubusercontent.com/37605427/126672598-6807ec5f-c602-4e3a-9a4d-f88e6b47b221.png)
 
 This error was caused because the `setVisible` method could cause deadlocks or other threading issues since Swing components are not thread-safe in Java. <br>
+
+## Bug 3: Could be refactored into a named static inner class
+
+![image](https://user-images.githubusercontent.com/37605427/126672977-d8308cb3-b916-4d6c-b96a-133e53f389d5.png)
+
+
