@@ -59,10 +59,16 @@ The above images converts a string to a double but it is more effiicent to just 
 
 Just make the compile-time to static value after the `final` keyboard
 
-## Bug 12: new CalCFrame(String) uses the same code for two branches
+## Bug 12: new CalCFrame(String) - method uses the same code for two branches
 
 ![image](https://user-images.githubusercontent.com/37605427/126690888-4aa4184f-95ce-465e-a5a9-313e99122d99.png)
 
 ![image](https://user-images.githubusercontent.com/37605427/126692601-09d8fd25-1949-4717-a185-4fb39384d1fd.png)
 
 The same code was used for duplicate lines. This was fixed by changing up the code to one line. 
+
+## Bug 13: Switch statement found in CalCFrame.calculate(int double, double) where default case is missing
+
+![image](https://user-images.githubusercontent.com/37605427/126692973-07408dce-01de-4085-b7c0-5e89275f5755.png)
+
+Add the default case as seen above that doesn't match any of the cases, then the default is printed out to the terminal
