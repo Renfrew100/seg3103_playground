@@ -72,3 +72,6 @@ The same code was used for duplicate lines. This was fixed by changing up the co
 ![image](https://user-images.githubusercontent.com/37605427/126692973-07408dce-01de-4085-b7c0-5e89275f5755.png)
 
 Add the default case as seen above that doesn't match any of the cases, then the default is printed out to the terminal
+
+![image](https://user-images.githubusercontent.com/37605427/126695515-ccb83568-698b-437d-ac89-d3e467d13901.png)
+
